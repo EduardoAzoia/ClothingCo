@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\ClothingCompany\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\ClothingCompany\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\ClothingCompany\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj",
+        "projectName": "ClothingCompany.Web",
+        "projectPath": "C:\\Dev\\ClothingCompany\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj",
+        "packagesPath": "C:\\Users\\LEDTeam\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\ClothingCompany\\src\\ClothingCompany.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Dev\\ClothingCompany\\NuGet.Config",
+          "C:\\Users\\LEDTeam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "HedgehogDevelopment.FxCop.Helix": {
+              "target": "Package",
+              "version": "[1.0.0.7, )"
+            },
+            "Sitecore.ContentSearch": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "Sitecore.ContentSearch.Linq": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "Sitecore.Kernel": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "Sitecore.Mvc": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
